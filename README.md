@@ -18,6 +18,7 @@ My name is **Sanket Kulkarni**, pursuing my Bachelor's 🎓 in Computer Engineer
 ![ML](https://img.shields.io/badge/-ML-1572B6?style=for-the-badge&logo=ML&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-tableau-0db7ed?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3970e4?style=for-the-badge&logo=SQL&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-0db7ed?style=for-the-badge&logo=AWS&logoColor=white)
 ![R](https://img.shields.io/badge/-R-F1502F?style=for-the-badge&logo=R&logoColor=white)
 </h1>
 <!--
