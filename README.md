@@ -9,6 +9,18 @@ My name is **Sanket Kulkarni**, pursuing my Bachelor's 🎓 in Computer Engineer
 </a>
 
 </h1>
+
+## <🔩 Skills>  
+<h1 align = "center">
+
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/-Data Analytics-d9534f?style=for-the-badge&logo=data analytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tableau](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![R](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
+</h1>
 <!--
 **Sanketkulkarni99603/Sanketkulkarni99603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
