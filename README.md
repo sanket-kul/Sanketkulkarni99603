@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=400&height=50&lines=Welcome+to+Sanket+Kulkarni's+profile;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=0693ef&width=400&height=50&lines=Welcome+to+Sanket+Kulkarni's+profile;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
 
