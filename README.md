@@ -7,7 +7,7 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Sanket Kulkarni**, pursuing my Bachelor's 🎓 in Computer Engineering 💻 from PCCOE, Pune, Maharashtra. I am a **Data Science Enthusiast** & also passionate about **Machine Learning and Deep Learning**. 
+My name is **Sanket Kulkarni**, pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 from PCCOE, Pune, Maharashtra. I am a **Data Science Enthusiast** & also passionate about **Machine Learning and Deep Learning**. I have completed **Google Data Analytics Specialization** through Coursera.
 
 <h1 align = "center">
   
