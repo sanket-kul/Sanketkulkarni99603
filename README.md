@@ -5,7 +5,7 @@
 
 </p>
 
-## <👨‍💻 About Me>
+## 👨‍💻 About Me
 
 My name is **Sanket Kulkarni**, pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 from PCCOE, Pune, Maharashtra. I am a **Data Science Enthusiast** & also passionate about **Machine Learning and Deep Learning**. I have completed **Google Data Analytics Specialization** through Coursera.
 
@@ -17,7 +17,7 @@ My name is **Sanket Kulkarni**, pursuing my Bachelor's degree 🎓 in Computer E
 
 </h1>
 
-## <🔩 Skills>  
+## 🔩 Skills  
 <h1 align = "center">
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
