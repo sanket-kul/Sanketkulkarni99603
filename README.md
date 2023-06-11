@@ -22,11 +22,13 @@ Skilled data analyst with 5 months of full-time internship experience at Avegen 
 <h1 align = "center">
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Analytics](https://img.shields.io/badge/-Analytics-orange?style=for-the-badge&logo=analytics&logoColor=white)
-![ML](https://img.shields.io/badge/-ML-blue?style=for-the-badge&logo=ML&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=SQL&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-tableau-orange?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=SQL&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=AWS&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Cloud Platform(GCP)](https://img.shields.io/badge/-Analytics-orange?style=for-the-badge&logo=analytics&logoColor=white)
+![Bigquery](https://img.shields.io/badge/-ML-blue?style=for-the-badge&logo=ML&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=AWS&logoColor=white)
 </h1>
 <!--
 **Sanketkulkarni99603/Sanketkulkarni99603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
