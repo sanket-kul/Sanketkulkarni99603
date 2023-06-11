@@ -26,8 +26,8 @@ Skilled data analyst with 5 months of full-time internship experience at Avegen 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-blue?style=for-the-badge&logo=tableau&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-tableau-orange?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-blue?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Cloud Platform(GCP)](https://img.shields.io/badge/-Google Cloud Platform(GCP)-orange?style=for-the-badge&logo=analytics&logoColor=white)
-![Google Bigquery](https://img.shields.io/badge/-Google Bigquery-blue?style=for-the-badge&logo=ML&logoColor=white)
+![Google Cloud Platform(GCP)](https://img.shields.io/badge/-Google_Cloud_Platform(GCP)-orange?style=for-the-badge&logo=analytics&logoColor=white)
+![Google Bigquery](https://img.shields.io/badge/-Google_Bigquery-blue?style=for-the-badge&logo=ML&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=AWS&logoColor=white)
 </h1>
 <!--
