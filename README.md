@@ -7,7 +7,8 @@
 
 ## 👨‍💻 About Me
 
-My name is **Sanket Kulkarni**, pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 from PCCOE, Pune, Maharashtra. I am a **Data Science Enthusiast** & also passionate about **Machine Learning and Deep Learning**. I have completed **Google Data Analytics Specialization** through Coursera.
+<!-- My name is **Sanket Kulkarni**, pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 from PCCOE, Pune, Maharashtra. I am a **Data Science Enthusiast** & also passionate about **Machine Learning and Deep Learning**. I have completed **Google Data Analytics Specialization** through Coursera. -->
+Skilled data analyst with 5 months of full-time internship experience at Avegen India, specializing in data analysis, data modeling, and data automation. Seeking opportunities in the field of data science. Possess strong technical proficiency in Python, SQL, PostgreSQL, Google Cloud Platform(GCP), Looker Studio, PowerBI and Amazon Web Services(AWS). Dedicated to continuously learning and adapting to new technologies, utilizing a rapid skill acquisition ability to remain up-to-date and make meaningful contributions to the ever-evolving tech industry.
 
 <h1 align = "center">
   
