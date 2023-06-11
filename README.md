@@ -29,6 +29,8 @@ Skilled data analyst with 5 months of full-time internship experience at Avegen 
 ![Google Cloud Platform(GCP)](https://img.shields.io/badge/-Google_Cloud_Platform(GCP)-orange?style=for-the-badge&logo=analytics&logoColor=white)
 ![Google Bigquery](https://img.shields.io/badge/-Google_Bigquery-blue?style=for-the-badge&logo=ML&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=AWS&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-blue?style=for-the-badge&logo=ML&logoColor=white)
+![Haddop](https://img.shields.io/badge/-Hadoop-orange?style=for-the-badge&logo=AWS&logoColor=white)
 </h1>
 <!--
 **Sanketkulkarni99603/Sanketkulkarni99603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
